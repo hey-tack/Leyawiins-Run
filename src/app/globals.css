@@ -224,15 +224,28 @@ button:focus-visible {
   align-items: center;
 }
 
-.divider p, i {
+.divider p {
   display: flex;
   justify-content: flex-start;
   max-width: 800px;
   padding: 20px;
 }
 
+.divider h3, .divider img {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+}
+
+.unset-width {
+  width: unset !important;
+}
+
 i {
   font-style: italic;
+  display: contents;
 }
 
 .derp {
@@ -358,6 +371,40 @@ hr {
 
 .unflex {
   display: block !important;
+}
+
+.link-styling {
+  color: chartreuse;
+}
+
+.link-styling:hover {
+  color: green;
+}
+
+.faq-list {
+  padding: 10px;
+  display: grid;
+}
+
+.faq-list h3 {
+  padding-bottom: 0;
+}
+
+.route-list {
+  padding: 10px;
+  justify-content: center;
+}
+
+.route-image {
+  padding: 20px;
+}
+
+hr {
+    margin-top: 30px;
+    display: inline-block;
+    border-color: #454545;
+    max-width: 800px;
+    width: 100%;
 }
 
 /* Small devices such as large phones (640px and up) */
