@@ -15,7 +15,7 @@ export default function Faq() {
             <div className="overlay"></div>
             <Image className="background" fill="true" src={wowForeverBackground3} alt="An still iamge of the World of Warcraft: Forever cinematic trailer. It depicts a skyborne standing atop a massive golden chain held up by a tower in the clouds, while a blue sprite flies off from within arms reach." />
             <div className="title-container">
-              <h1 className="title spaced-letters">LEYAWIINS' RUN - FAQ</h1>
+              <h1 className="title spaced-letters">FAQ</h1>
             </div>
           </div>
           <div className="divider pt-10 faq-list">

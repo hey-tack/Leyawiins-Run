@@ -27,7 +27,7 @@ export default function Route() {
             <div className="overlay"></div>
             <Image className="background" fill="true" src={wowForeverBackground4} alt="A view of a dock, in the game of World of Warcraft: Forever" />
             <div className="title-container unflex">
-              <h1 className="title spaced-letters">LEYAWIINS' RUN - PLANNED ROUTE</h1>
+              <h1 className="title spaced-letters">ROUTE</h1>
               <br className="pt-10"/>
             </div>
           </div>

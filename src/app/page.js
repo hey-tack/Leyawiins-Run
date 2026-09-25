@@ -20,9 +20,9 @@ export default function Home() {
             <div className="overlay"></div>
             <Image className="background" fill="true" src={wowForeverBackground} alt="A World of Warcraft Dwarf, and his bear looking over the horizon of a grassy field and path. Led by a small blue wisp." />
             <div className="title-container unflex">
-              <h1 className="title spaced-letters">TIME UNTIL LEYAWIINS' RUN</h1>
+              <h1 className="title spaced-letters">LEYAWIINS' RUN</h1>
               <Countdown targetDate={eventDate} />
-              <h2 className="title spaced-letters pt-10"><Link href="#how-to-participate">JOIN THE RUN</Link> | <Link href="/faq">FAQ</Link> | <Link href="/route">PLANNED ROUTE</Link></h2>
+              <h2 className="title spaced-letters pt-10"><Link href="#how-to-participate">JOIN</Link> | <Link href="/faq">FAQ</Link> | <Link href="/route">ROUTE</Link></h2>
               <br className="pt-10"/>
             </div>
           </div>
