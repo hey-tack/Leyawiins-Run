@@ -6,7 +6,7 @@ import CrossfadeContainer from "@/helpers/CrossfadeContainer";
 import React from "react";
 import './../globals.css';
 
-const wowForeverBackground3 = '/images/WoW_Forever_Cinematic_Still_6.jpeg';
+const wowForeverBackground3 = '/images/cinematic3.jpeg';
 
 export default function Faq() {
     return (

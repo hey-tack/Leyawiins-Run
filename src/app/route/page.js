@@ -1,27 +1,24 @@
 'use client'
 
 import Image from "next/image";
-import Link from "next/link";
 import CrossfadeContainer from "@/helpers/CrossfadeContainer";
 import React from "react";
 import './../globals.css';
 
-const wowForeverBackground4 = '/images/WoW_Forever_Announce_Zones_NewWater_009.jpg';
-const route_1 = '/images/Route_1.png';
-const route_2 = '/images/Route_2.png';
-const route_3 = '/images/Route_3.png';
-const route_4 = '/images/Route_4.png';
-const route_5 = '/images/Route_5.png';
-const route_6 = '/images/Route_6.png';
-const route_7 = '/images/Route_7.png';
-const route_8 = '/images/Route_8.png';
-const route_9 = '/images/Route_9.png';
-const route_10 = '/images/Route_10.png';
-const route_11 = '/images/Route_11.png';
-const route_12 = '/images/Route_12.png';
-const route_13 = '/images/Route_13.png';
-
-const eventDate = "2026-11-07T10:00:00";
+const wowForeverBackground4 = '/images/waterzone.jpg';
+const route_1 = '/images/Route1.png';
+const route_2 = '/images/Route2.png';
+const route_3 = '/images/Route3.png';
+const route_4 = '/images/Route4.png';
+const route_5 = '/images/Route5.png';
+const route_6 = '/images/Route6.png';
+const route_7 = '/images/Route7.png';
+const route_8 = '/images/Route8.png';
+const route_9 = '/images/Route9.png';
+const route_10 = '/images/Route10.png';
+const route_11 = '/images/Route11.png';
+const route_12 = '/images/Route12.png';
+const route_13 = '/images/Route13.png';
 
 export default function Route() {
     return (

@@ -7,9 +7,9 @@ import Countdown from "@/components/countdown";
 import React from "react";
 import './globals.css';
 
-const wowForeverBackground = '/images/WoW_Forever_Cinematic_Still_1.jpeg';
-const wowForeverBackground2 = '/images/Wow_Forever_Cinematic_Still_5.jpeg';
-const wowForeverCampfirePic = '/images/WoW_Forever_SCENIC_Announce_Camping_Players_063.jpg';
+const wowForeverBackground = '/images/cinematic1.jpeg';
+const wowForeverBackground2 = '/images/cinematic2.jpeg';
+const wowForeverCampfirePic = '/images/camping.jpg';
 
 const eventDate = "2026-11-07T10:00:00";
 
