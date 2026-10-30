@@ -51,12 +51,12 @@ export default function Home() {
           </div>
           <div className="divider pt-10" id="how-to-participate">
             <h3 className="unset-width">If you want to join the run</h3>
-            <p className="display-as-contents">Meet me at Coldridge Valley, Dun Morough on <span className="inline-green">November 7th around 10:00 AM CDT</span>. I'll update the site with my character name when it's been put together.</p> 
-            <p>I anticipate the run to take about 4 hours or so. There are planned checkpoints along the way where we will stop and break to allow people to rest, stretch, use the restroom, etc.</p>
-            <p>This will take place on PVE, so more people can casually participate - and actually make it to Hyjal.</p>
+            <p className="display-as-contents">Meet me at Coldridge Valley, Dun Morough on <span className="inline-green">November 7th around 10:00 AM CDT</span>. My character name is <span className="inline-green">Leyawiins Brother</span>, and I'll be waiting around at the kickoff point leading up to the run.</p> 
+            <p>I anticipate the run to take about 4 hours or so. My plan is to take occasional breaks along the way where we will stop and allow people to rest, stretch, use the restroom, etc.</p>
+            <p>This will take place on the 'Normal' rulset, so more people can casually participate - and actually make it to Hyjal. So remember to switch / spin up a new character if you're not already set to the 'Normal' ruleset.</p>
             <p>If you're subbed, you should already have access to WoW: Forever, and shouldn't need to pay any additional cost. You can bring a leveled character if you want, but the run can be performed by a fresh character also if you're okay with death running.</p>
             <p>Part of the reason I chose launch week for this, is because I have friend passes I want to use to get some of my IRL friends involved in the run. Might be a good opportunity to use up those remaining friend passes.</p>
-            <p>There's a written route I'm taking if you're interested in knowing which you can view here, but memorizing it ahead of time isn't required if you're planning to follow me for the duration of the run.</p>
+            <p>There's a written route I'm taking if you're interested in knowing which you can view here, but memorizing it ahead of time isn't required if you're planning to follow me during the run.</p>
             <hr/>
             <h3 className="unset-width">If you want to watch</h3>
             <p className="display-as-contents unflex">Shortly before the event, I will be updating the site to contain an embedded stream, or you can view the stream directly on <Link className="link-styling" href="https://www.youtube.com/@Leyawiins_Run" target="_blank">the Leyawiins' Run youtube channel</Link>. If you get lost or want to join late, feel free to check the stream and meet us along the route, or just watch if you'd rather not join the walk.</p>

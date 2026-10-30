@@ -27,6 +27,8 @@ export default function Faq() {
             <p>Mount hyjal.</p>
             <h3>Where does it start?</h3>
             <p className="display-as-contents unflex">The run rallies at Coldridge Valley, just outside of Anvilmar. In other words, just the Dwarf / Gnome starting area. It can be found <Link className="link-styling" href="https://mapgenie.io/world-of-warcraft/maps/eastern-kingdoms?locationIds=657728" target="_blank">here on mapgenie</Link>.</p>
+            <h3>How do we know it's you?</h3>
+            <p>You don't really HAVE to do the run with me specifically, but if you want to follow me, my character name is <span className="inline-green">Leyawiins Brother</span>. You will find me waiting around at the starting area leading up to the run.</p>
             <h3>How will we get there?</h3>
             <p className="display-as-contents unflex">We will run <Link className="link-styling" href="/route" target="_blank">the planned route</Link> together, which I will lead. Or you can read the route and follow it yourself if you want.</p>
             <h3>When is it?</h3>
@@ -34,7 +36,7 @@ export default function Faq() {
             <h3>How long it is?</h3>
             <p>I anticipate the run to take about 4 hours or so. My plan is to take a 5-10 minute break every hour. But please take breaks if you need to beyond that - it's a marathon, not a race.</p>
             <h3>PvP / Hardcore?</h3>
-            <p>No. This will take place on PVE, so more people can casually participate - and hopefully actually make it to Hyjal.</p>
+            <p>No. This will take place on the 'Normal' difficulty setting, so more people can casually participate - and hopefully actually make it to Hyjal. The run is designed to allow let people spin up a trash character to join, so no need to move characters around or anything like that.</p>
             <h3>Does this cost anything?</h3>
             <p>If you're subbed, you should already have access to WoW: Forever, and shouldn't need to pay any additional cost. Bring a friend if you've got a spare friend pass.</p>
             <h3>Are you streaming this?</h3>
