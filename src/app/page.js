@@ -27,6 +27,21 @@ export default function Home() {
             </div>
           </div>
           <div className="divider">
+            <iframe
+              src="https://www.youtube.com/embed/ZNmvWqLVBvc?si=ogS99D0eFJAYKD54"
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+              style={{
+                width: '100%',
+                maxWidth: '560px',
+                aspectRatio: '16 / 9',
+                margin: '24px auto',
+                display: 'block',
+                borderRadius: '12px',
+                border: 'none',
+              }}
+            />
             <p className="display-as-contents">"Leyawiins' Run" is an in game memorial event I am orchestrating. It's a <i>Death Run</i> which loosely follows the same path of the familiar dwarf we see in the opening cinematic trailer for World of Warcraft: Forever - Starting from Dun Morogh, and ending at Mount Hyjal.</p>
             <p>What's a "Death Run"? it's essentially just running through high level content as a low level character. In some cases, corpse-running repeatedly to gradually inch through tough, or mob-dense areas.</p>
           </div>
@@ -51,7 +66,7 @@ export default function Home() {
           </div>
           <div className="divider pt-10" id="how-to-participate">
             <h3 className="unset-width">If you want to join the run</h3>
-            <p className="display-as-contents">Meet me at Coldridge Valley, Dun Morough on <span className="inline-green">November 7th around 10:00 AM CDT</span>. My character name is <span className="inline-green">Leyawiins Brother</span>, and I'll be waiting around at the kickoff point leading up to the run.</p> 
+            <p className="display-as-contents">Meet me at Coldridge Valley, Dun Morough on <span className="inline-green">November 7th around 10:00 AM CST</span>. My character name is <span className="inline-green">Leyawiins Brother</span>, and I'll be waiting around at the kickoff point leading up to the run.</p> 
             <p>I anticipate the run to take about 4 hours or so. My plan is to take occasional breaks along the way where we will stop and allow people to rest, stretch, use the restroom, etc.</p>
             <p>This will take place on the 'Normal' rulset, so more people can casually participate - and actually make it to Hyjal. So remember to switch / spin up a new character if you're not already set to the 'Normal' ruleset.</p>
             <p>If you're subbed, you should already have access to WoW: Forever, and shouldn't need to pay any additional cost. You can bring a leveled character if you want, but the run can be performed by a fresh character also if you're okay with death running.</p>

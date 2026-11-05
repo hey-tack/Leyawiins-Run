@@ -32,7 +32,7 @@ export default function Faq() {
             <h3>How will we get there?</h3>
             <p className="display-as-contents unflex">We will run <Link className="link-styling" href="/route" target="_blank">the planned route</Link> together, which I will lead. Or you can read the route and follow it yourself if you want.</p>
             <h3>When is it?</h3>
-            <p className="display-as-contents unflex"><span className="inline-green">November 7th around 10:00 AM CDT.</span> This is intentionally during the first week of launch, so people with friend passes can join too if they want.</p>
+            <p className="display-as-contents unflex"><span className="inline-green">November 7th around 10:00 AM CST.</span> This is intentionally during the first week of launch, so people with friend passes can join too if they want.</p>
             <h3>How long it is?</h3>
             <p>I anticipate the run to take about 4 hours or so. My plan is to take a 5-10 minute break every hour. But please take breaks if you need to beyond that - it's a marathon, not a race.</p>
             <h3>PvP / Hardcore?</h3>
