@@ -28,7 +28,7 @@ export default function Home() {
           </div>
           <div className="divider">
             <iframe
-              src="https://www.youtube.com/embed/ZNmvWqLVBvc?si=ogS99D0eFJAYKD54"
+              src="https://www.youtube.com/embed/AFcS3RJFKTk?si=IHtfa5LIIgTjQmaW"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
