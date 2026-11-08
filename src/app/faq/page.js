@@ -20,29 +20,31 @@ export default function Faq() {
           </div>
           <div className="divider pt-10 faq-list">
             <h3>What is this?</h3>
-            <p>This is a World of Warcraft: Forever, player hosted in-game community event. It's a memorial 'death run' I'm leading for my sister, who passed away in 2023.</p>
+            <p>This was a World of Warcraft: Forever, player hosted in-game community event. It's a memorial 'death run' I'm leading for my sister, who passed away in 2023.</p>
             <h3>What's a 'Death Run'?</h3>
             <p>It's when you take an under-leveled character into high level, and/or endgame zones and areas.</p>
             <h3>Where are you running to?</h3>
             <p>Mount hyjal.</p>
-            <h3>Where does it start?</h3>
-            <p className="display-as-contents unflex">The run rallies at Coldridge Valley, just outside of Anvilmar. In other words, just the Dwarf / Gnome starting area. It can be found <Link className="link-styling" href="https://mapgenie.io/world-of-warcraft/maps/eastern-kingdoms?locationIds=657728" target="_blank">here on mapgenie</Link>.</p>
+            <h3>Can I join?</h3>
+            <p>The run is over now, so no sadly. While it was open to public participation, between the scheduling, time constraints, and difficulty, almost nobody was able to realistically participate with me. This didn't really surprise me.</p>
+            <h3>Where did it start?</h3>
+            <p className="display-as-contents unflex">The run started at Coldridge Valley, just outside of Anvilmar. In other words, just the Dwarf / Gnome starting area. It can be found <Link className="link-styling" href="https://mapgenie.io/world-of-warcraft/maps/eastern-kingdoms?locationIds=657728" target="_blank">here on mapgenie</Link>.</p>
             <h3>How do we know it's you?</h3>
-            <p>You don't really HAVE to do the run with me specifically, but if you want to follow me, my character name is <span className="inline-green">Leyawiins Brother</span>. You will find me waiting around at the starting area leading up to the run.</p>
-            <h3>How will we get there?</h3>
-            <p className="display-as-contents unflex">We will run <Link className="link-styling" href="/route" target="_blank">the planned route</Link> together, which I will lead. Or you can read the route and follow it yourself if you want.</p>
-            <h3>When is it?</h3>
-            <p className="display-as-contents unflex"><span className="inline-green">November 7th around 10:00 AM CST.</span> This is intentionally during the first week of launch, so people with friend passes can join too if they want.</p>
-            <h3>How long it is?</h3>
-            <p>I anticipate the run to take about 4 hours or so. My plan is to take a 5-10 minute break every hour. But please take breaks if you need to beyond that - it's a marathon, not a race.</p>
+            <p>If you were trying to find me when the run started, my character name was "Leyawiins Brother"</p>
+            <h3>How did you get there?</h3>
+            <p className="display-as-contents unflex">I ran on foot. Mostly following the established route.</p>
+            <h3>When was it?</h3>
+            <p className="display-as-contents unflex"><span className="inline-green">November 7th around 10:00 AM CST, 2026.</span> This was intentionally during the first week of launch, so people with friend passes could have joined.</p>
+            <h3>How long was is?</h3>
+            <p>I anticipated the run to take about 4 hours or so with breaks. It ended up taking roughly 7.5 hours</p>
             <h3>PvP / Hardcore?</h3>
-            <p>No. This will take place on the 'Normal' difficulty setting, so more people can casually participate - and hopefully actually make it to Hyjal. The run is designed to allow let people spin up a trash character to join, so no need to move characters around or anything like that.</p>
-            <h3>Does this cost anything?</h3>
-            <p>If you're subbed, you should already have access to WoW: Forever, and shouldn't need to pay any additional cost. Bring a friend if you've got a spare friend pass.</p>
-            <h3>Are you streaming this?</h3>
-            <p className="display-as-contents unflex">I'm going to try. If I do, I'll be streaming the event at <Link className="link-styling" href="https://www.youtube.com/@Leyawiins_Run" target="_blank">this youtube channel</Link>. Just gameplay - no commentary or non-game audio. I will also have the stream embedded on this site too if I can figure out how.</p>
-            <h3>Why am I doing this?</h3>
-            <p>I want to. Sounded fun, and I miss my sister.</p>
+            <p>This took place on the 'normal' difficulty settings, for obvious reasons.</p>
+            <h3>Did this cost anything?</h3>
+            <p>If you were subbed, you should have already have access to WoW: Forever, and shouldn't need to pay any additional cost. And friend passes were an option.</p>
+            <h3>Did you stream this?</h3>
+            <p className="display-as-contents unflex">I did. The stream can be reviewed at <Link className="link-styling" href="https://www.youtube.com/@Leyawiins_Run" target="_blank">this youtube channel</Link>. Not particularly thrilling to watch. But I do sometimes break the silence to talk with chat.</p>
+            <h3>Why did I do this?</h3>
+            <p>I wanted to. Sounded fun, and I miss my sister.</p>
             <h3>Will this be a recurring event?</h3>
             <p>Almost certainly not. But never say never I guess.</p>
           </div>
